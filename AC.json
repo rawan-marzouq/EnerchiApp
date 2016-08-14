@@ -1,0 +1,126 @@
+[
+ {
+ "applianceDetail":
+ {
+ "name":"AC",
+ "status":"on",
+ "hoursOn":"22",
+ "onOff":"on",
+ "spent":"2.50",
+ "percent":"20",
+ "status": "normal"
+ },
+ "graphData": [
+               {
+               "timestamp": "1426132800",
+               "spent":"0.25",
+               "smart":"0.19"
+               },
+               {
+               "timestamp": "1426136400",
+               "spent":"0.55",
+               "smart":"0.19"
+               },
+               {
+               "timestamp": "1426140000",
+               "spent":"0.15",
+               "smart":"0.19"
+               },
+               {
+               "timestamp": "1426143600",
+               "spent":"0.35",
+               "smart":"0.19"
+               },
+               {
+               "timestamp": "1426147200",
+               "spent":"0.25",
+               "smart":"0.19"
+               },
+               {
+               "timestamp": "1426150800",
+               "spent":"0.25",
+               "smart":"0.19"
+               },
+               {
+               "timestamp": "1426154400",
+               "spent":"0.50",
+               "smart":"0.38"
+               },
+               {
+               "timestamp": "1426158000",
+               "spent":"1.00",
+               "smart":"0.75"
+               },
+               {
+               "timestamp": "1426161600",
+               "spent":"0.50",
+               "smart":"0.38"
+               },
+               {
+               "timestamp": "1426165200",
+               "spent":"0.25",
+               "smart":"0.19"
+               },
+               {
+               "timestamp": "1426168800",
+               "spent":"0.25",
+               "smart":"0.19"
+               },
+               {
+               "timestamp": "1426172400",
+               "spent":"0.25",
+               "smart":"0.19"
+               },
+               {
+               "timestamp": "1426176000",
+               "spent":"0.25",
+               "smart":"0.19"
+               },
+               {
+               "timestamp": "1426179600",
+               "spent":"0.25",
+               "smart":"0.19"
+               },
+               {
+               "timestamp": "1426183200",
+               "spent":"0.25",
+               "smart":"0.19"
+               },
+               {
+               "timestamp": "1426186800",
+               "spent":"0.25",
+               "smart":"0.19"
+               },
+               {
+               "timestamp": "1426190400",
+               "spent":"0.25",
+               "smart":"0.19"
+               },
+               {
+               "timestamp": "1426194000",
+               "spent":"0.50",
+               "smart":"0.38"
+               },
+               {
+               "timestamp": "1426197600",
+               "spent":"1.00",
+               "smart":"0.75"
+               },
+               {
+               "timestamp": "1426201200",
+               "spent":"2.00",
+               "smart":"1.50"
+               },
+               {
+               "timestamp": "1426204800",
+               "spent":"1.00",
+               "smart":"0.75"
+               },
+               {
+               "timestamp": "1426208400",
+               "spent":"2.00",
+               "smart":"1.50"
+               }
+               ]
+ }
+ ]

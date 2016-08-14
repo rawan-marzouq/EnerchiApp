@@ -1,0 +1,16 @@
+PODS:
+  - ABCalendarPicker (1.1.2)
+  - CorePlot (1.6)
+  - JASwipeCell (1.0.1)
+
+DEPENDENCIES:
+  - ABCalendarPicker
+  - CorePlot
+  - JASwipeCell
+
+SPEC CHECKSUMS:
+  ABCalendarPicker: dfa1269abd0d7b5697c9abe3001d31e5b901ed4b
+  CorePlot: 820901f6c147f2d84549ffa1f0902869f980d74d
+  JASwipeCell: fa161a9ef3d9fdd94f1d2f8b4d2e8118884cc6b0
+
+COCOAPODS: 0.38.2

@@ -1,0 +1,26 @@
+{
+    "overview": {
+        "currentMonth": {
+            "month": "July 2015"
+        },
+        "progressDial": {
+            "percentage": "10.89"
+        },
+        "monthData": {
+            "spent": "$11.98",
+            "budget": "$110.00"
+        }
+    },
+    "monthCalendar": [
+                      {
+                      "date": "1435708800000",
+                      "cost": "$2.85",
+                      "status": "low"
+                      },
+                      {
+                      "date": "1435795200000",
+                      "cost": "$9.13",
+                      "status": "high"
+                      }
+                      ]
+}

@@ -1,0 +1,35 @@
+{
+    "appliances": [
+                   {
+                   "name": "Refrigerator",
+                   "cost": "$ 5.18",
+                   "percent": "5%"
+                   },
+                   {
+                   "name": "Air Conditioner",
+                   "cost": "$ 5.18",
+                   "percent": "35%"
+                   },
+                   {
+                   "name": "Dryer",
+                   "cost": "$ 5.18",
+                   "percent": "15%"
+                   },
+                   
+                   {
+                   "name": "Always On",
+                   "cost": "$ 10.93",
+                   "percent": "10%"
+                   },
+                   {
+                   "name": "All Others",
+                   "cost": "$ 90.37",
+                   "percent": "35%"
+                   }
+                   ],
+    "total": {
+        "name": "Monthly Total",
+        "cost": "$ 106.48",
+    }
+}
+
